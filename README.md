@@ -9,3 +9,4 @@ from this directory, run "scrapy crawl risingwasabi" or 'scrapy crawl risingwasa
  
   
   UPDATE: as of 31/01/2022, The Rising Wasabi website has gone down.
+  Because of this I have added an example output file from when it was working. 
